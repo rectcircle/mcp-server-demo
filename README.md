@@ -15,3 +15,7 @@ npm install -D @types/node typescript
 mkdir -p src/cmd
 touch src/cmd/time.ts
 ```
+
+* https://github.com/modelcontextprotocol/typescript-sdk
+* https://modelcontextprotocol.io/quickstart/server
+* https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/index.ts
